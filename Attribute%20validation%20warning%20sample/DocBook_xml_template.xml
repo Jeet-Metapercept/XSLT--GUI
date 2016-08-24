@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+                      "http://docbook.org/xml/4.5/docbookx.dtd">
+<book>
+    <bookinfo>
+        <title>Book Template Title</title>
+        <author>
+            <firstname>Author First Name</firstname>
+            <surname>Author Last Name</surname>
+        </author>
+    </bookinfo>
+    <part>
+        <title>First Part </title>
+        <chapter label="new">
+            <title>Chapter Title</title>
+            <sect1>
+                <title>Section1 Title</title>
+                <para>Text</para>
+            </sect1>
+        </chapter>
+        <chapter label="new">
+            <title>Chapter Title 1</title>
+            <sect1>
+                <title>Section1 Title 1</title>
+                <para>Text</para>
+            </sect1>
+        </chapter>
+        <chapter label="new">
+            <title>Chapter Title 2</title>
+            <sect1>
+                <title>Section1 Title 2</title>
+                <para>Text</para>
+            </sect1>
+        </chapter>
+    </part>
+</book>
